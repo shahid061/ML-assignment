@@ -26,7 +26,7 @@ The blog provides a breakdown of the paper [Paths to Equilibrium in Games](https
 
 ## Criticisms
 
-While the blog is very well written from a technical standpoint, it was not particularly engaging for the reader and may be found uninteresting if the reader was not already curious about the subject matter. A lack of visual elements also adds to this.
+While the blog is very well written from a technical standpoint, it was not particularly engaging for the reader and may be found uninteresting if the reader was not already curious about the subject matter. A lack of visual elements also adds to this. To engage a broader audience, the blog could include more interactive visuals or relatable real-world analogies.
 
 ## Conclusion
 
